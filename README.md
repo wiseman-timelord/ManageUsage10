@@ -51,3 +51,4 @@ I will analyze the top processes and give you targeted fix commands.
 Full report saved to: C:\Users\WiseMan-TimeLord\Desktop\Disk_60s_Monitor_20260427_142100.txt
 Press any key to continue . . .
 ```
+...so currently a script to diagnose disk usage, in order to determine best route to reduce blinking of the light and wear on drives/interfaces. 
