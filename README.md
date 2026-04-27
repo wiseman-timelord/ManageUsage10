@@ -52,3 +52,8 @@ Full report saved to: C:\Users\WiseMan-TimeLord\Desktop\Disk_60s_Monitor_2026042
 Press any key to continue . . .
 ```
 ...so currently a script to diagnose disk usage, in order to determine best route to reduce blinking of the light and wear on drives/interfaces. 
+
+### Notation
+Solutions to disk usage...
+- CCleaner <= v6.39 enables no background tasks. After uninstall CCleaner v7+ leaves Icarus bundlewear.
+- For, VLC and Winamp, set Disk Cache/PreCahce buffer to 20000ms for 20x reduction on drive interactions. 
