@@ -1,5 +1,5 @@
 # ManageUsage10
-Status: Alpha
+Status: Alpha (planning)
 
 ### Description
 This is a program to diagnose resource usage on windows 10, it could potentially monitor specified resources from a menu, ie not just disk usage, but here is the current drive usage output....
